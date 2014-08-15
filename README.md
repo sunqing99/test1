@@ -1,4 +1,4 @@
-test1
+This is a test project
 =====
 
-test1 descriptions
+...and this is the README
